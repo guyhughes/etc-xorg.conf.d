@@ -1,8 +1,0 @@
-Section "Device"
-   Identifier  "Intel Graphics"
-   Driver      "intel"
-   Option      "AccelMethod"  "uxa"
-   Option      "TearFree"  "true"
-EndSection
-# Alternative AccelMethod = sna
-# Alternative AccelMethod = uxa
